@@ -40,4 +40,6 @@
 # debug information files
 *.dwo
 
-App/.venv/*
+.venv
+.vscode
+build
