@@ -42,4 +42,5 @@
 
 .venv
 .vscode
+.vs
 build
